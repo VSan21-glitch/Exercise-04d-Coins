@@ -2,6 +2,11 @@
 
 ## Implementation
 -Created coins that player when picked up, they disappear. 
+
+For project:
+-Added new levels
+-Changed sprites of enemies
+-Added music
 ## References
 
 Character Controller adapted from Sebastion Lague's Unity 5 Character Controller Tutorials
